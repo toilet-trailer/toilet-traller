@@ -1,0 +1,14 @@
+---
+title: Аренда
+subtitle: Рады помочь в организации удобств
+layout: default
+modal-id: 2
+date: 2015-04-20
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: April 2015
+client: Start Bootstrap
+category: Сервис
+description: Наши туалетные прицепы доступны как для краткосрочной, так и для долгосрочной аренды. Всегда рады помочь вам в организации VIP-туалета на вашем мероприятии. По всем интересующим вопросам ответим по телефону +7 (919) 10-666-44
+---

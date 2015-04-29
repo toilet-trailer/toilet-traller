@@ -1,0 +1,14 @@
+---
+title:  Для чего
+subtitle: Идеален для выездных мероприятий
+layout: default
+modal-id: 1
+date: 2015-04-21
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: April 2015
+client: Start Bootstrap
+category: Сервис
+description: Туалет рассчитан в среднем на 150 посещений. Идеально подходит для любого мероприятия: формальные вечеринки, конференции, выставки, выездные свадьбы, автомобильные гонки, спортивные мероприятия, фестивали и многое другое.
+---
