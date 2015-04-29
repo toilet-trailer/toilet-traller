@@ -1,2 +1,2 @@
 # toilet-trailer
-It is site for my frend
+It is Jekyll site for my frend
