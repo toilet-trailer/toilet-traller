@@ -1,9 +1,8 @@
 # Site settings
 title: Туалетные прицепы
 email: toilet@trailer.com
-description: > # this means to ignore newlines until "baseurl:"
-    Скоро важное мероприятие на открытом воздухе? Необходимо создать комфортные условия для времяпрепровождения? Аренда туалетного прицепа - отличное решение, которое обеспечит #комфорт и удобство для ваших гостей!
-baseurl: /toilet-trailer/ # the subpath of your site, e.g. /blog/
+description: Скоро важное мероприятие на открытом воздухе? Необходимо создать комфортные условия для времяпрепровождения? Аренда туалетного прицепа - отличное решение, которое обеспечит #комфорт и удобство для ваших гостей!
+baseurl: /toilet-trailer # the subpath of your site, e.g. /blog/
 url: https://toilet-trailer.github.io/ # the base hostname & protocol for your site
 twitter_username: toilet-trailer
 github_username:  toilet-trailer
