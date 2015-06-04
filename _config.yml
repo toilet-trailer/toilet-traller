@@ -2,8 +2,10 @@
 title: Туалетные прицепы
 email: toilet@trailer.com
 description: Скоро важное мероприятие на открытом воздухе? Необходимо создать комфортные условия для времяпрепровождения? Аренда туалетного прицепа - отличное решение, которое обеспечит #комфорт и удобство для ваших гостей!
-baseurl: /toilet-traller # the subpath of your site, e.g. /blog/
-url: https://toilet-trailer.github.io/ # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+#baseurl: /toilet-traller # the subpath of your site, e.g. /blog/
+url: http://toilet-trailer.ru/ # the base hostname & protocol for your site
+#url: https://toilet-trailer.github.io/ # the base hostname & protocol for your site
 twitter_username: toilet-trailer
 github_username:  toilet-trailer
 
